@@ -4,7 +4,7 @@
   "description": "todo-list with team-development & server-side",
   "main": "index.js",
   "scripts": {
-    "init": "cd ./client && npm i && ../backend && npm i && cd ../"
+    "init": "cd ./client && npm i && cd ../backend && npm i && cd ../"
   },
   "repository": {
     "type": "git",
