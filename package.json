@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "todo-list with team-development & server-side",
+  "main": "index.js",
+  "scripts": {
+    "init": "cd ./client && npm i && ../backend && npm i && cd ../"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriaTorgonina/toDoList.git"
+  },
+  "keywords": [
+    "testing",
+    "learning",
+    "todo",
+    "team"
+  ],
+  "author": "Valeria Torgonina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriaTorgonina/toDoList/issues"
+  },
+  "homepage": "https://github.com/ValeriaTorgonina/toDoList#readme"
+}
